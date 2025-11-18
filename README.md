@@ -1,8 +1,6 @@
 
 # Data Analytics (ITELEC303) Project compilation
 
-A compilation from data analytics course. 
-
 
 ### Table of contents
 <ul>
